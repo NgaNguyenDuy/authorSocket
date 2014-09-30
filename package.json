@@ -1,0 +1,29 @@
+{
+  "name": "chat-simple",
+  "version": "0.0.1",
+  "description": "Chat simple application",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NgaNguyenDuy/chat-simple.git"
+  },
+  "keywords": [
+    "Chat",
+    "nodejs",
+    "socket.io"
+  ],
+  "author": "NgaNguyenDuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NgaNguyenDuy/chat-simple/issues"
+  },
+  "homepage": "https://github.com/NgaNguyenDuy/chat-simple",
+  "dependencies": {
+    "debug": "^2.0.0",
+    "express": "^4.9.5",
+    "socket.io": "^1.1.0"
+  }
+}
