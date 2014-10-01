@@ -1,1 +1,1 @@
-Simple Chat Application with Socket.IO 1.0
+Simple Authenticate with Socket.IO 1.0
